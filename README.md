@@ -2,13 +2,13 @@
 Uses open cv to separate images of shapes of one colour and then identifies the shape 
 ## Working:
 ### BLUE SHAPES: 
-![BLUE IMAGES]{BLUE.png}
+![BLUE IMAGES](BLUE.png)
 ### RED SHAPES: 
-![BLUE IMAGES]{RED.png}
+![BLUE IMAGES](/RED.png)
 ### GREEN SHAPES: 
-![BLUE IMAGES]{GREEN.png}
+![BLUE IMAGES](GREEN.png)
 ### ORANGE SHAPES: 
-![BLUE IMAGES]{ORANGE.png}
+![BLUE IMAGES](ORANGE.png)
 ### YELLOW SHAPES: 
-![BLUE IMAGES]{YELLOW.png}
+![BLUE IMAGES](YELLOW.png)
 
